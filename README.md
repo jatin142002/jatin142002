@@ -1,6 +1,6 @@
 ## Hi there, I'm JATIN MEHRA 👋 
 
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/pg87nWVeAQ6Ag/giphy.jpg"  height="250"/>
+<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/pg87nWVeAQ6Ag/giphy.gif"  height="250"/>
 
 ### About me :
 
