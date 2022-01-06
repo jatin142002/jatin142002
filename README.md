@@ -13,7 +13,7 @@
 
 [<img align="left" alt="JATIN | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico"/>][linkedin]
 [<img align="left" alt="JATIN | Instagram" width="22px" src="https://www.instagram.com/favicon.ico" />][instagram]
-[<img align="left" alt="JATIN | Gmail" width="22px" src="https://www.gmail.com/favicon.ico"/>][gmail]
+[<img align="left" alt="JATIN | Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/>][gmail]
 
 
 
