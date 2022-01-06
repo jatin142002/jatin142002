@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 Hello world, I'm JATIN MEHRA
 
-<!--
-**jatin142002/jatin142002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
+<img align="right" width=420px alt="GIF" src="https://i.gifer.com/JGB.gif"  height="250"/>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐱‍💻 I’m currently learning: web and cp
+- 💬 Ask me about: Anything
+- 📫 How to reach me: [email](mailto:akshbansal321@gmail.com) or [linkedIn](https://www.linkedin.com/in/aksh-bansal-0a1073200/)
+- ⚜ Pronouns: He/His
+- 🐱‍🚀 Fun fact: I use vim!
+- 🪅 NFT: [me](https://cloudflare-ipfs.com/ipfs/QmYJX6uicZjc2HNMPHxZ6BNJ4a4cJmUj7153oEjHu3Nojz)
+
+<!-- 
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-bansal-dev&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aksh-Bansal-dev&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" /> 
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Aksh-Bansal-dev&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
 -->
+
