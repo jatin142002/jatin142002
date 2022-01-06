@@ -24,4 +24,4 @@
 [linkedin]: https://www.linkedin.com/in/jatin-mehra-9a5392211
 
 
-<!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
+
