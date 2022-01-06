@@ -1,6 +1,8 @@
-### Hi there, I'm JATIN MEHRA 👋 
+## Hi there, I'm JATIN MEHRA 👋 
 
-## About me :
+<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/>
+
+### About me :
 
 - 👨🏻‍🎓 I'm a Btech CSE Student !! 
 - 🐱‍💻 I’m currently learning : web dev & cp
