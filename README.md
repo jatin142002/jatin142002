@@ -1,16 +1,23 @@
-### 👋 Hello world, I'm JATIN MEHRA
+### Hi there, I'm JATIN MEHRA 👋 
 
-<!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
-<img align="right" width=420px alt="GIF" src="https://i.gifer.com/JGB.gif"  height="250"/>
+## About me :
 
-### About me
-
-- 🐱‍💻 I’m currently learning: web and cp
-- 💬 Ask me about: Anything
-- 📫 How to reach me: [email](mailto:akshbansal321@gmail.com) or [linkedIn](https://www.linkedin.com/in/aksh-bansal-0a1073200/)
+- 👨🏻‍🎓 I'm a Btech CSE Student !! 
+- 🐱‍💻 I’m currently learning : web dev & cp
+- 💬 Ask me about : Anything
 - ⚜ Pronouns: He/His
-- 🐱‍🚀 Fun fact: I use vim!
-- 🪅 NFT: [me](https://cloudflare-ipfs.com/ipfs/QmYJX6uicZjc2HNMPHxZ6BNJ4a4cJmUj7153oEjHu3Nojz)
+- 🐱‍🚀 Fun fact: React is Library not a Framework !
+
+
+### Connect with me :
+
+[<img align="left" alt="JATIN | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico"/>][linkedin]
+[<img align="left" alt="JATIN | Instagram" width="22px" src="https://www.instagram.com/favicon.ico" />][instagram]
+[<img align="left" alt="JATIN | Gmail" width="22px" src="https://www.gmail.com/favicon.ico"/>][gmail]
 
 
 
+
+[instagram]: https://www.instagram.com/jatin6911
+[linkedin]: https://www.linkedin.com/in/jatin-mehra-9a5392211
+[gmail]: mehrajatin142002@gmail.com
