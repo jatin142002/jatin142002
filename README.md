@@ -1,8 +1,6 @@
 ## Hi there, I'm JATIN MEHRA 👋 
 
-<img align="right" width=420px alt="GIF" src="https://giphy.com/embed/pg87nWVeAQ6Ag"  height="250"/>
-
-
+<img align="right" width=420px alt="GIF" src="https://tenor.com/view/haikyuu-anime-volleyball-spike-hinata-shouyou-gif-17509691"  height="250"/>
 
 ### About me :
 
