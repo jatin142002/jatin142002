@@ -20,4 +20,7 @@
 
 [instagram]: https://www.instagram.com/jatin6911
 [linkedin]: https://www.linkedin.com/in/jatin-mehra-9a5392211
-[gmail]: mehrajatin142002@gmail.com
+[gmail]: mail to : mehrajatin142002@gmail.com
+
+<!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
+<!-- <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/> -->
