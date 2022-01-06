@@ -1,6 +1,6 @@
 ## Hi there, I'm JATIN MEHRA 👋 
 
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/>
+<img align="right" width=420px alt="GIF" src="https://giphy.com/gifs/volleyball-pg87nWVeAQ6Ag"  height="250"/>
 
 ### About me :
 
@@ -25,4 +25,4 @@
 
 
 <!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
-<!-- <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/> -->
+<!-- <iframe src="https://giphy.com/embed/pg87nWVeAQ6Ag" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/volleyball-pg87nWVeAQ6Ag">via GIPHY</a></p> -->
