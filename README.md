@@ -5,7 +5,7 @@
 ### About me :
 
 - 👨🏻‍🎓 I'm a Btech CSE Student !! 
-- 🐱‍💻 I’m currently learning: web dev & cp
+- 💻 I’m currently learning: web dev & cp
 - 💬 Ask me about: Anything
 - 😃 Pronouns: He/His
 - 🏐 Fun fact: I can play volleyball !!
