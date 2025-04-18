@@ -8,6 +8,7 @@
 - 💬 Ask me about: Kubernetes
 - 😃 Pronouns: He/His
 - 🏐 Fun fact: I can hit smash !!
+- 📫 Email: mehrajatin142002@gmail.com
 
 ### Connect with me :
 
